@@ -32,6 +32,6 @@ To run this website on your machine you need to install anyone server such as WA
 7)Order Details:**</br></br>
 ![front page](ScreenShots/order.PNG)</br></br>
 ## Authors
-- [Sayali Pawar](https://github.com/sayaliipawar)
+- [Namrata Bomble](https://github.com/namratabomble)
 
 
